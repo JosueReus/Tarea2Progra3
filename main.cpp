@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #include<list>
 
-
+//Images obtained from: http://opengameart.org/content/space-jet-side-sprite
 
 SDL_Window* window;
 SDL_Renderer* renderer;
